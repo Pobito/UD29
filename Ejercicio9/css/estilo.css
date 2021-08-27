@@ -1,0 +1,10 @@
+table, tr, th, td{
+    border: black solid 1px;
+    width: 1000px;
+}
+.pais{
+    width: 3000px;
+}
+.españa{
+    font-weight: bolder;
+}

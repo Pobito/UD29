@@ -1,0 +1,18 @@
+.div1{
+    height: 100px;
+    width: 240px;
+    border: blue solid 3px;
+}
+.div2{
+    height: 350px;
+    width: 640px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px; /*Solo lo he puesto porque sale asi en el ejemplo*/
+    border: red solid 3px;
+}
+.div3{
+    height: 100px;
+    width: 240px;
+    border: blue solid 3px;
+}

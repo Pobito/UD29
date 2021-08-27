@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid cyan;
+}
+.cabecera{
+    color:rgb(200, 221, 200);
+    background-color: darkgreen;
+}
+tr{
+    background-color: rgb(200, 221, 200);
+}
+.intermedia{
+    background-color: darkseagreen;
+}

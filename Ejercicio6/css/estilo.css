@@ -1,0 +1,18 @@
+table, th, td {
+    width: 650px;
+    border: black solid 1px;
+    text-align: center;
+}
+.verde{
+    background-color: lightgreen;
+}
+
+.naranja{
+    background-color:bisque;
+}
+.amarillo{
+    background-color:lightyellow;
+}
+.fondo{
+    background-image: url("img/fondo.png");
+}
